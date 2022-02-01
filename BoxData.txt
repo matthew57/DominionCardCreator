@@ -1,0 +1,15 @@
+Perfect equal fit: 
+sx: 288.5/3
+sy: 288.5/10
+ h:48.5
+slot depth :  18
+slot radius: 2
+divider bottom margin: 7
+divider upper noth radius: 1
+divider lower notch radius: 3
+divider notch depth: 6
+burn correction: .04
+
+second try: 
+sx 99.5:89.5:99.5
+sy: 26:26:25:25:20:22:22:20.5:25:25:26:26
